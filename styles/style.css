@@ -31,6 +31,7 @@
     align-items: center;
     flex-direction: column;
     background-size: 600px;
+    margin-bottom: 75px;
 }
 .btn{
     width: 150px;
@@ -50,4 +51,19 @@
 .h11-class{
     font-size: 48px;
     text-align: center;
+}
+.second-dec{
+
+    background-color: rgba(13, 19, 33, 0.02);
+    width: 1140px;
+    height: 1395px;
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 16px;
+    margin: 0  148px 0  152px;
+
+
+
 }
