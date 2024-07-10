@@ -1,0 +1,53 @@
+.azeret-mono-uniquifier{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+/* Awlad.H */
+.first-title{
+    font-size: 28px;
+   
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin:20px 0 0 90px;
+    align-items: center;
+
+}
+.Download{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 130px;
+    
+}
+.back-img{
+    background-image: url('../IMAGES/Hero-bg.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: 600px;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.p1-class{
+
+    color: rgb(13, 19, 33);
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.h11-class{
+    font-size: 48px;
+    text-align: center;
+}
