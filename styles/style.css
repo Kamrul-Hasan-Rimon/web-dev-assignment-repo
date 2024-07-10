@@ -63,7 +63,6 @@
     height: 1395px;
     border-radius: 16px;
     margin: 0 352px 0 148px;
-    /* padding: 80px 97px 0 97px; */
 }
 .p2-class{
 
@@ -71,13 +70,10 @@
     text-align: center;
 }
 .first-part{
-
-    border-radius: 16px;
+    border-radius: 14px;
     background:rgb(255, 255, 255)
     rgba(255, 255, 255, 0);
-    padding: 48px;
-    
-    
+    padding: 45px;
 }
 .second-first-dec{
 
@@ -90,6 +86,8 @@
 .btn-2{
     width: 130px;
     height: 40px;
+    font-size: 18px;
+    font-weight: bold;
 
 }
 .p3-class{
@@ -98,17 +96,65 @@
 .h12-class{
     margin-bottom: 16px;
 }
-.front-image{
-
-    justify-content: space-between;
-
-}
 .seco-seco-dec{
     display: flex;
     justify-content: space-between;
+    border-radius: 14px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin-bottom: 5px;
 }
 .seco-third-dec{
      padding: 80px 97px 0 97px; 
 }
+.third-seco-deco{
+    display: flex;
+    border-radius: 14px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin-bottom: 5px;
+    padding: 45px;
+}
 
+.third-first-deco{
+    padding: 80px 97px 0 97px;
+}
+.btn-3{
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
 
+}
+.p4-class{
+    margin-bottom: 50px;
+}
+.image-dec{
+    margin: 0 30px 0 0;
+}
+.fourth-first-deco{
+    padding: 80px 97px 0 97px; 
+}
+.fourth-seco-deco{
+
+    display: flex;
+    justify-content: space-between;
+    border-radius: 14px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.h16-class{
+    margin-bottom: 16px;
+}
+.p5-class{
+    margin-bottom: 32px;
+}
+.third-part{
+    border-radius: 14px;
+    background:rgb(255, 255, 255)
+    rgba(255, 255, 255, 0);
+    padding: 45px;
+}
+.btn-4{
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
